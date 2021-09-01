@@ -1,2 +1,3 @@
 # fBERT
-BERT model re-trained on MLM HateXplain dataset
+
+Moved to : https://huggingface.co/diptanu/fBERT
